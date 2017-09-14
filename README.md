@@ -9,3 +9,12 @@ Arrays
 - Replace Element with Multiplication of Neighbors
 - Smallest And Second Smallest Element
 - Segregate Even and Odd Numbers
+- Leaders in an array
+- Find element that appears only once
+- Segregate 0's and 1's
+- Replace Element With Greatest Element On the Right Side
+- Find the Number Occurring Odd Number of Times
+- Find the Missing Number
+- Union and Intersection of two sorted arrays
+- Find a Fixed Point in a given array
+- Find the largest pair sum in an unsorted array

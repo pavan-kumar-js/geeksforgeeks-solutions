@@ -16,6 +16,7 @@ int smallestAndSecondSmallest(int *numbersList, int n,int *smallest,int *secondS
     for( index = 0; index < n ; index++){
         if(*secondSmallest > numbersList[index]){
             if(*smallest > numbersList[index]){
+                *secondSmallest = *smallest;
                 *smallest = numbersList[index];
             }
             else{
