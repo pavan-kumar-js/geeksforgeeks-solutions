@@ -18,3 +18,5 @@ Arrays
 - Union and Intersection of two sorted arrays
 - Find a Fixed Point in a given array
 - Find the largest pair sum in an unsorted array
+- Check if any two intervals overlap among a given set of intervals
+- Find the subarray with least average
