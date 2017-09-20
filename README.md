@@ -1,7 +1,7 @@
 # geeksforgeeks-solutions
 Collection of solutions for geeks for geeks problems
 
-Arrays
+## Arrays
 - Largest number in an unsorted array
 - Reverse an array
 - Binary search
@@ -20,3 +20,18 @@ Arrays
 - Find the largest pair sum in an unsorted array
 - Check if any two intervals overlap among a given set of intervals
 - Find the subarray with least average
+
+## Trees
+- Size of a tree
+- Maximum Depth or Height of a Tree
+- count leaf nodes in a binary tree
+- Print nodes at k distance from root
+- Determine if Two Trees are Identical
+- Get Level of a node in a Binary Tree
+- Convert a Binary Tree into its Mirror Tree
+- Delete a Tree
+- Check for Children Sum Property in a Binary Tree
+- Iterative Search for a key ‘x’ in Binary Tree
+- maximum (or minimum) in Binary Tree
+- Binary tree to a tree that holds Logical AND property
+- Print all nodes that don’t have sibling
