@@ -1,7 +1,7 @@
 # geeksforgeeks-solutions
 Collection of solutions for geeks for geeks problems
 
-Arrays
+##Arrays
 - Largest number in an unsorted array
 - Reverse an array
 - Binary search
@@ -21,7 +21,7 @@ Arrays
 - Check if any two intervals overlap among a given set of intervals
 - Find the subarray with least average
 
-Trees
+##Trees
 - Size of a tree
 - Maximum Depth or Height of a Tree
 - count leaf nodes in a binary tree
