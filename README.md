@@ -35,3 +35,18 @@ Collection of solutions for geeks for geeks problems
 - maximum (or minimum) in Binary Tree
 - Binary tree to a tree that holds Logical AND property
 - Print all nodes that don’t have sibling
+- Find depth of the deepest odd level leaf node
+- Iterative Method to find Height of Binary Tree
+- Find Minimum Depth of a Binary Tree
+- Level Order Tree Traversal
+- Lowest Common Ancestor in a Binary Search Tree
+- Double Tree
+- Difference between sums of odd level and even level nodes of a Binary Tree
+- Find sum of all left leaves in a given Binary Tree
+- Reverse Level Order Traversal
+- Given a binary tree, print all root-to-leaf paths
+- Find next right node of a given key
+- Check if all leaves are at same level
+- Print level order traversal line by line 
+- Root to leaf path sum equal to a given number
+- 
