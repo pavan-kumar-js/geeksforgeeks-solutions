@@ -49,4 +49,3 @@ Collection of solutions for geeks for geeks problems
 - Check if all leaves are at same level
 - Print level order traversal line by line 
 - Root to leaf path sum equal to a given number
-- 
