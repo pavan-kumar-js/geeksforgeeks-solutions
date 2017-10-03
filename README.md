@@ -65,4 +65,12 @@ Collection of solutions for geeks for geeks problems
 - Check if two nodes are cousins in a Binary Tree
 
 
+## Linked List
+- Move last element to front of a given Linked List
+- Search an element in a Linked List (Iterative and Recursive)
+- Identical Linked Lists
+- Compare two strings represented as linked lists
+
+
 *Make sure you copy tree.h as part of tree problems
+*Make sure to include linkedlist.h and linkedlist.cpp in linked list problems
