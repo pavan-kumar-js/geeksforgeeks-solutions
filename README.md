@@ -66,11 +66,16 @@ Collection of solutions for geeks for geeks problems
 
 
 ## Linked List
+- Counts the number of times a given int occurs in a Linked List	
+- Code to get Nth node in a Linked List	
+- Find Length of a Linked List (Iterative and Recursive)	
+- Delete a Linked List	
+- Recursive function to print reverse of a Linked List	
 - Move last element to front of a given Linked List
 - Search an element in a Linked List (Iterative and Recursive)
 - Identical Linked Lists
 - Compare two strings represented as linked lists
 
 
-*Make sure you copy tree.h as part of tree problems
-*Make sure to include linkedlist.h and linkedlist.cpp in linked list problems
+- *Make sure you copy tree.h as part of tree problems
+- *Make sure to include linkedlist.h and linkedlist.cpp in linked list problems

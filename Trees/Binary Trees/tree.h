@@ -8,7 +8,6 @@ typedef struct node{
 
 Node* newNode(int data){
 
-
     auto *temp = (Node *)malloc(sizeof(Node));
 
     temp->data = data;
