@@ -49,3 +49,20 @@ Collection of solutions for geeks for geeks problems
 - Check if all leaves are at same level
 - Print level order traversal line by line 
 - Root to leaf path sum equal to a given number
+- Check if a binary tree is subtree of another binary tree
+- Sum of all the numbers that are formed from root to leaf paths
+- Tree Isomorphism Problem
+- Construct Special Binary Tree from given Inorder traversal
+- Foldable Binary Trees
+- Print Left View of a Binary Tree
+- Print Right View of a Binary Tree
+- Expression Tree
+- Construct Complete Binary Tree from its Linked List Representation
+- Convert a given tree to its Sum Tree
+- Determine if a binary tree is height-balanced
+- Deepest left leaf node in a binary tree
+- Print nodes between two given level numbers of a binary tree
+- Check if two nodes are cousins in a Binary Tree
+
+
+*Make sure you copy tree.h as part of tree problems
