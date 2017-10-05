@@ -17,6 +17,7 @@ Collection of solutions for geeks for geeks problems
 - Find the Missing Number
 - Union and Intersection of two sorted arrays
 - Find a Fixed Point in a given array
+- Largest element in a given array
 - Find the largest pair sum in an unsorted array
 - Check if any two intervals overlap among a given set of intervals
 - Find the subarray with least average
@@ -64,7 +65,6 @@ Collection of solutions for geeks for geeks problems
 - Print nodes between two given level numbers of a binary tree
 - Check if two nodes are cousins in a Binary Tree
 
-
 ## Linked List
 - Counts the number of times a given int occurs in a Linked List
 - Code to get Nth node in a Linked List
@@ -75,7 +75,24 @@ Collection of solutions for geeks for geeks problems
 - Search an element in a Linked List (Iterative and Recursive)
 - Identical Linked Lists
 - Compare two strings represented as linked lists
-
+- Remove duplicates from a sorted linked list.
+- Check if a linked list of strings forms a palindrome
+- Circular Linked List Traversal
+- Print the middle of a given linked list
+- Pairwise swap elements of a given linked list
+- Sort a linked list of 0s, 1s and 2s
+- Linked List Deletion (Deleting a given key) (Delete at given position)
+- Nth node from the end of a Linked List
+- Delete alternate nodes of a Linked List
+- Merge a linked list into another linked list at alternate positions
+- Delete a Linked List node at a given position	
+- Remove duplicates from an unsorted linked list
+- Delete N nodes after M nodes of a linked list-
+- Split a Circular Linked List into two halves
+- Rotate a Linked List
+- Detect loop in a linked list
+- Alternating split of a given Singly Linked List
+- Add two numbers represented by linked lists | Set 1
 
 ### *Make sure you copy tree.h as part of tree problems
 ### *Make sure to include linkedlist.h and linkedlist.cpp in linked list problems
