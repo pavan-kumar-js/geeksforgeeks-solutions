@@ -65,18 +65,15 @@ void printLinkedListReverse(Node *head){
     printf("%d ",head->data);
 }
 
-bool searchElementInLinkedList(Node *head, int element){
-
+int sizeOfLinkedList(Node *head){
     if(!head){
-        return false;
+        return 0;
     }
-
+    int count = 0;
     Node *iterator = head;
     while(iterator){
-        if(iterator->data == element){
-            return true;
-        }
-        iterator = iterator -> next;
+        count++;
+        iterator = iterator ->next;
     }
-    return false;
+    return count;
 }
