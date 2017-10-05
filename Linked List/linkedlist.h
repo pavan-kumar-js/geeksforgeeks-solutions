@@ -12,6 +12,6 @@ void printLinkedList(Node *head);
 void addNodeAtTheEnd(Node **head, int data);
 void deleteLinkedList(Node **head);
 void printLinkedListReverse(Node *head);
-bool searchElementInLinkedList(Node *head, int element);
+int sizeOfLinkedList(Node *head);
 
 #endif //LINKEDLIST_LINKEDLIST_H
