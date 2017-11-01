@@ -64,6 +64,9 @@ Collection of solutions for geeks for geeks problems
 - Deepest left leaf node in a binary tree
 - Print nodes between two given level numbers of a binary tree
 - Check if two nodes are cousins in a Binary Tree
+- Print tree vertically
+- Print Level order line by line(Using two queue's)
+- Threaded Binary Tree ( Method - 1)
 
 ## Linked List
 - Counts the number of times a given int occurs in a Linked List
