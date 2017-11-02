@@ -66,7 +66,11 @@ Collection of solutions for geeks for geeks problems
 - Check if two nodes are cousins in a Binary Tree
 - Print tree vertically
 - Print Level order line by line(Using two queue's)
-- Threaded Binary Tree ( Method - 1)
+- Threaded Binary Tree (Method - 1)
+- Convert BST To Balanced BST
+- Extract Leaves of a Binary Tree in a Doubly Linked List
+- Find the maximum sum leaf to root path in a Binary Tree
+- Convert left-right representation of a binary tree to down-right
 
 ## Linked List
 - Counts the number of times a given int occurs in a Linked List
