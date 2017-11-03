@@ -43,3 +43,14 @@ void postorder(Node *root){
     postorder(root->right);
     printf("%d ",root->data);
 }
+
+
+bool isLeaf(Node *root){
+    if(!root){
+        return false;
+    }
+    if(!root->left && !root->right){
+        return true;
+    }
+    return false;
+}

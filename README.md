@@ -71,6 +71,11 @@ Collection of solutions for geeks for geeks problems
 - Extract Leaves of a Binary Tree in a Doubly Linked List
 - Find the maximum sum leaf to root path in a Binary Tree
 - Convert left-right representation of a binary tree to down-right
+- Check if leaf traversal of two Binary Trees is same
+- Change a Binary Tree so that every node stores sum of all nodes in left subtree
+- Vertical Sum in a given Binary Tree
+- Diagonal Sum of a Binary Tree          
+- Check if a given Binary Tree is SumTree                                                                                                                                                                                                                                                       
 
 ## Linked List
 - Counts the number of times a given int occurs in a Linked List
