@@ -106,5 +106,9 @@ Collection of solutions for geeks for geeks problems
 - Alternating split of a given Singly Linked List
 - Add two numbers represented by linked lists | Set 1
 
+## Sortings
+- Heap Sort
+- Quick Sort
+
 ### *Make sure you copy tree.h as part of tree problems
 ### *Make sure to include linkedlist.h and linkedlist.cpp in linked list problems
