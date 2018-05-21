@@ -110,6 +110,10 @@ Collection of solutions for geeks for geeks problems
 - Heap Sort
 - Quick Sort
 - Merge Sort
+- Counting Sort
+
+## Files
+- File operations
 
 ### *Make sure you copy tree.h as part of tree problems
 ### *Make sure to include linkedlist.h and linkedlist.cpp in linked list problems
